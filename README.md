@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rickyleonardos&label=Profile%20views&color=0e75b6&style=flat" alt="rickyleonardos" /> </p>
 
+- 👀 I’m interested in data science and enjoy exploring everything about data.
+- :trophy: I have completed <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9F8ES5QN6AJ5" target="_blank">Google Data Analytics Professional Certificate</a>.
 - 🌱 I’m currently learning **about Data Analytics.**
 
 - 📫 How to reach me **leonardo.ricky23@gmail.com**
